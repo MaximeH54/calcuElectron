@@ -1,0 +1,18 @@
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn {
+  flex: 1;
+  cursor: pointer;
+  margin: 1px;
+  border:none;
+	padding:6px 0 6px 0;
+	border-radius:2px;
+	box-shadow:1px 1px 3px #aaa;
+	background:#fff;
+	font:bold 13px Arial;
+	color:#555;
+}

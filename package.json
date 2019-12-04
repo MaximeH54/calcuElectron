@@ -1,0 +1,24 @@
+{
+  "name": "calcuelectron",
+  "version": "1.0.0",
+  "description": "Calculatrice en Electron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximeH54/calcuElectron.git"
+  },
+  "author": "Maxime Hemmerlé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximeH54/calcuElectron/issues"
+  },
+  "homepage": "https://github.com/MaximeH54/calcuElectron#readme",
+  "devDependencies": {
+    "electron": "^7.1.3",
+    "electron-reload": "^1.5.0"
+  }
+}
